@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wifiScan</string>
+    <string name="attendance">출근</string>
+    <string name="go_to_home">퇴근</string>
+</resources>
